@@ -1,5 +1,5 @@
-Summary:	GTK Exim Monitor
-Summary(pl):	Monitor Exima oparty na GTK
+Summary:	GTK+ Exim Monitor
+Summary(pl):	Monitor Exima oparty na GTK+
 Name:		geximon
 Version:	0.7
 Release:	1
@@ -13,10 +13,10 @@ Requires:	python-pygtk-gtk >= 1.99.16
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-GTK Exim Monitor - GTK-based clone of eximon, the exim server monitor.
+GTK+ Exim Monitor - GTK+-based clone of eximon, the exim server monitor.
 
 %description -l pl
-GTK Exim Monitor - oparty na GTK monitor Exima bêd±cy klonem eximona.
+GTK+ Exim Monitor - oparty na GTK+ monitor Exima bêd±cy klonem eximona.
 
 %prep
 %setup -q
