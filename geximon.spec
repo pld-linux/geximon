@@ -9,6 +9,7 @@ Source0:	http://pov.lt/geximon/%{name}-%{version}.tar.gz
 URL:	http://pov.lt/geximon
 Requires:	python-pygtk
 Requires:	python-pygtk-gtk >= 1.99.16
+BuildRequires:	python-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
