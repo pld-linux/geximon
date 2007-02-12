@@ -1,5 +1,5 @@
 Summary:	GTK+ Exim Monitor
-Summary(pl):	Monitor Exima oparty na GTK+
+Summary(pl.UTF-8):   Monitor Exima oparty na GTK+
 Name:		geximon
 Version:	0.7
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 GTK+ Exim Monitor - GTK+-based clone of eximon, the exim server monitor.
 
-%description -l pl
-GTK+ Exim Monitor - oparty na GTK+ monitor Exima bêd±cy klonem eximona.
+%description -l pl.UTF-8
+GTK+ Exim Monitor - oparty na GTK+ monitor Exima bÄ™dÄ…cy klonem eximona.
 
 %prep
 %setup -q
