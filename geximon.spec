@@ -1,5 +1,5 @@
 Summary:	GTK+ Exim Monitor
-Summary(pl.UTF-8):   Monitor Exima oparty na GTK+
+Summary(pl.UTF-8):	Monitor Exima oparty na GTK+
 Name:		geximon
 Version:	0.7
 Release:	1
